@@ -6,4 +6,5 @@
 int main()
 {
     std::cout << "YOU DIED!!!!!!!!!!!!\n";
+    std::cout << "おおn";
 }
